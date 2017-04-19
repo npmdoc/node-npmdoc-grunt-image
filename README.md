@@ -1,9 +1,14 @@
-# api documentation for  [grunt-image (v2.2.3)](https://github.com/1000ch/grunt-image)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-image.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-image) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-image.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-image)
+# npmdoc-grunt-image
+
+#### api documentation for  [grunt-image (v2.2.3)](https://github.com/1000ch/grunt-image)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-image.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-image) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-image.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-image)
+
 #### Optimize PNG, JPEG, GIF, SVG images.
 
-[![NPM](https://nodei.co/npm/grunt-image.png?downloads=true)](https://www.npmjs.com/package/grunt-image)
+[![NPM](https://nodei.co/npm/grunt-image.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-image)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-image/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-grunt-image_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-image/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-grunt-image/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-grunt-image/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-image/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-image/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-grunt-image/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "1000ch",
-        "email": "shogo.sensui@gmail.com",
         "url": "http://github.com/1000ch"
     },
     "bugs": {
@@ -78,13 +82,11 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "1000ch",
-            "email": "orz1000ch@gmail.com"
+            "name": "1000ch"
         }
     ],
     "name": "grunt-image",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/1000ch/grunt-image.git"
@@ -95,16 +97,6 @@
     "version": "2.2.3"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module grunt-image](#apidoc.module.grunt-image)
-
-
-
-# <a name="apidoc.module.grunt-image"></a>[module grunt-image](#apidoc.module.grunt-image)
 
 
 
