@@ -21,13 +21,38 @@
 ```json
 
 {
+    "name": "grunt-image",
+    "version": "2.2.3",
+    "description": "Optimize PNG, JPEG, GIF, SVG images.",
+    "repository": "1000ch/grunt-image",
     "author": {
         "name": "1000ch",
-        "url": "http://github.com/1000ch"
+        "web": "http://github.com/1000ch"
+    },
+    "license": "MIT",
+    "engines": {
+        "node": ">=4.0.0"
+    },
+    "scripts": {
+        "test": "grunt test"
     },
     "bugs": {
         "url": "https://github.com/1000ch/grunt-image/issues"
     },
+    "homepage": "https://github.com/1000ch/grunt-image",
+    "keywords": [
+        "compress",
+        "minify",
+        "optimize",
+        "image",
+        "img",
+        "jpg",
+        "jpeg",
+        "png",
+        "gif",
+        "svg",
+        "gruntplugin"
+    ],
     "dependencies": {
         "chalk": "^1.1.3",
         "each-async": "^1.1.1",
@@ -49,52 +74,12 @@
         "svgo": "^0.7.0",
         "zopflipng-bin": "^3.0.1"
     },
-    "description": "Optimize PNG, JPEG, GIF, SVG images.",
     "devDependencies": {
         "grunt": "^1.0.1",
         "grunt-cli": "^1.2.0",
         "grunt-contrib-clean": "^1.0.0",
         "grunt-contrib-nodeunit": "^1.0.0"
-    },
-    "directories": {},
-    "dist": {
-        "shasum": "17a632bfc145478316826b9598b2f2d092487a6d",
-        "tarball": "https://registry.npmjs.org/grunt-image/-/grunt-image-2.2.3.tgz"
-    },
-    "engines": {
-        "node": ">=4.0.0"
-    },
-    "gitHead": "9c2082555fff5456301f72f21d71b488895ba4a2",
-    "homepage": "https://github.com/1000ch/grunt-image",
-    "keywords": [
-        "compress",
-        "minify",
-        "optimize",
-        "image",
-        "img",
-        "jpg",
-        "jpeg",
-        "png",
-        "gif",
-        "svg",
-        "gruntplugin"
-    ],
-    "license": "MIT",
-    "maintainers": [
-        {
-            "name": "1000ch"
-        }
-    ],
-    "name": "grunt-image",
-    "optionalDependencies": {},
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/1000ch/grunt-image.git"
-    },
-    "scripts": {
-        "test": "grunt test"
-    },
-    "version": "2.2.3"
+    }
 }
 ```
 
